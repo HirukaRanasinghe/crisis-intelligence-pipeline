@@ -10,7 +10,7 @@
 [![Tiktoken](https://img.shields.io/badge/Tiktoken-Tokenization-000000?style=flat-square)](https://github.com/openai/tiktoken)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-Operation Ditwah is a structured crisis intelligence pipeline developed for post-cyclone relief efforts in Sri Lanka. It ingests unstructured text feeds (SOS messages, news updates, and incident reports), classifies intent and priority, validates payloads against strict JSON schemas, executes multi-criteria logistical routing, and compiles validated outputs into tabular reports for dispatch coordination.
+Operation Ditwah is a structured crisis intelligence pipeline developed for post-cyclone relief efforts in Sri Lanka, as a partial requirement of **Zuu Crew AI Engineering Essentials Bootcamp**. It ingests unstructured text feeds (SOS messages, news updates, and incident reports), classifies intent and priority, validates payloads against strict JSON schemas, executes multi-criteria logistical routing, and compiles validated outputs into tabular reports for dispatch coordination.
 
 ---
 
